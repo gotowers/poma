@@ -61,7 +61,11 @@ public class Poma {
 		this.pomas = pomas;
 	}
 	
-	public Poma generatePoma() {
+	public Poma generatePoma(Long mK, String tK, String gR) {
+		return null;
+	}
+	
+	public Poma recoverPoma(Long sK, String gR) {
 		return null;
 	}
 
